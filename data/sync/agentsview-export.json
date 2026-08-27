@@ -1,0 +1,516 @@
+{
+  "version": "1.0",
+  "source": "Macbook-AgentsView",
+  "exportedAt": "2026-08-27T04:10:59.611Z",
+  "summary": {
+    "totalCalls": 47056,
+    "totalTokens": 3320708703,
+    "totalTokensFormatted": "3.32B",
+    "activeDays": 62,
+    "today": {
+      "date": "2026-08-27",
+      "calls": 612,
+      "tokens": 14213766
+    }
+  },
+  "topModels": [
+    {
+      "name": "gpt-5.6-sol",
+      "calls": 14049,
+      "tokens": 1337418575,
+      "tokensFormatted": "1.34B"
+    },
+    {
+      "name": "gpt-5.5",
+      "calls": 10645,
+      "tokens": 616637331,
+      "tokensFormatted": "616.6M"
+    },
+    {
+      "name": "deepseek-v4-flash-0731",
+      "calls": 4851,
+      "tokens": 523484868,
+      "tokensFormatted": "523.5M"
+    },
+    {
+      "name": "glm-5.2",
+      "calls": 3677,
+      "tokens": 207016519,
+      "tokensFormatted": "207.0M"
+    },
+    {
+      "name": "codex-auto-review",
+      "calls": 4191,
+      "tokens": 153058807,
+      "tokensFormatted": "153.1M"
+    },
+    {
+      "name": "gemini-3.7-flash",
+      "calls": 535,
+      "tokens": 93284086,
+      "tokensFormatted": "93.3M"
+    },
+    {
+      "name": "kimi-k3",
+      "calls": 3021,
+      "tokens": 69235919,
+      "tokensFormatted": "69.2M"
+    },
+    {
+      "name": "gemini-3.7-flash-control",
+      "calls": 350,
+      "tokens": 59593010,
+      "tokensFormatted": "59.6M"
+    },
+    {
+      "name": "k3",
+      "calls": 606,
+      "tokens": 53109080,
+      "tokensFormatted": "53.1M"
+    },
+    {
+      "name": "kimi-for-coding",
+      "calls": 1240,
+      "tokens": 46912644,
+      "tokensFormatted": "46.9M"
+    },
+    {
+      "name": "Gemini 3.7 Flash (High)",
+      "calls": 319,
+      "tokens": 42189003,
+      "tokensFormatted": "42.2M"
+    },
+    {
+      "name": "gpt-5.6-luna",
+      "calls": 1089,
+      "tokens": 35385943,
+      "tokensFormatted": "35.4M"
+    },
+    {
+      "name": "Gemini 3.5 Flash (High)",
+      "calls": 283,
+      "tokens": 32834756,
+      "tokensFormatted": "32.8M"
+    },
+    {
+      "name": "Gemini 3.6 Flash (High)",
+      "calls": 131,
+      "tokens": 15018640,
+      "tokensFormatted": "15.0M"
+    },
+    {
+      "name": "gpt-5.4-mini",
+      "calls": 772,
+      "tokens": 13317694,
+      "tokensFormatted": "13.3M"
+    },
+    {
+      "name": "daimon-kimi-code",
+      "calls": 187,
+      "tokens": 10942942,
+      "tokensFormatted": "10.9M"
+    },
+    {
+      "name": "gpt-5.6-terra",
+      "calls": 178,
+      "tokens": 5160313,
+      "tokensFormatted": "5.2M"
+    },
+    {
+      "name": "Claude Sonnet 4.6 (Thinking)",
+      "calls": 38,
+      "tokens": 2553173,
+      "tokensFormatted": "2.6M"
+    },
+    {
+      "name": "Claude Opus 4.6 (Thinking)",
+      "calls": 42,
+      "tokens": 2381633,
+      "tokensFormatted": "2.4M"
+    },
+    {
+      "name": "gemini-default",
+      "calls": 16,
+      "tokens": 353330,
+      "tokensFormatted": "353.3K"
+    },
+    {
+      "name": "claude-opus-4-5-20251101",
+      "calls": 5,
+      "tokens": 260895,
+      "tokensFormatted": "260.9K"
+    },
+    {
+      "name": "deepseek-v4-pro",
+      "calls": 5,
+      "tokens": 223840,
+      "tokensFormatted": "223.8K"
+    },
+    {
+      "name": "deepseek-v4-pro-0813",
+      "calls": 6,
+      "tokens": 180113,
+      "tokensFormatted": "180.1K"
+    },
+    {
+      "name": "claude-opus-4-6",
+      "calls": 2,
+      "tokens": 97822,
+      "tokensFormatted": "97.8K"
+    },
+    {
+      "name": "claude-haiku-4-5-20251001",
+      "calls": 1,
+      "tokens": 57767,
+      "tokensFormatted": "57.8K"
+    },
+    {
+      "name": "qwen3.6-35b-a3b-fp8",
+      "calls": 7,
+      "tokens": 0,
+      "tokensFormatted": "0"
+    },
+    {
+      "name": "kimi-k2.6",
+      "calls": 3,
+      "tokens": 0,
+      "tokensFormatted": "0"
+    },
+    {
+      "name": "grok-4.6",
+      "calls": 24,
+      "tokens": 0,
+      "tokensFormatted": "0"
+    },
+    {
+      "name": "grok-4.5",
+      "calls": 66,
+      "tokens": 0,
+      "tokensFormatted": "0"
+    },
+    {
+      "name": "deepseek-v4-flash",
+      "calls": 1,
+      "tokens": 0,
+      "tokensFormatted": "0"
+    },
+    {
+      "name": "claude-opus-4-5",
+      "calls": 1,
+      "tokens": 0,
+      "tokensFormatted": "0"
+    }
+  ],
+  "dailyHistory": [
+    {
+      "date": "2026-06-06",
+      "calls": 80,
+      "tokens": 807316
+    },
+    {
+      "date": "2026-06-08",
+      "calls": 175,
+      "tokens": 6235713
+    },
+    {
+      "date": "2026-06-09",
+      "calls": 502,
+      "tokens": 31726440
+    },
+    {
+      "date": "2026-06-10",
+      "calls": 1100,
+      "tokens": 56295391
+    },
+    {
+      "date": "2026-06-11",
+      "calls": 1072,
+      "tokens": 56181236
+    },
+    {
+      "date": "2026-06-12",
+      "calls": 896,
+      "tokens": 38432964
+    },
+    {
+      "date": "2026-06-15",
+      "calls": 2,
+      "tokens": 17019
+    },
+    {
+      "date": "2026-06-16",
+      "calls": 350,
+      "tokens": 13644303
+    },
+    {
+      "date": "2026-06-17",
+      "calls": 322,
+      "tokens": 3448147
+    },
+    {
+      "date": "2026-06-18",
+      "calls": 2559,
+      "tokens": 132131282
+    },
+    {
+      "date": "2026-06-20",
+      "calls": 555,
+      "tokens": 48641654
+    },
+    {
+      "date": "2026-06-22",
+      "calls": 338,
+      "tokens": 33768496
+    },
+    {
+      "date": "2026-06-23",
+      "calls": 955,
+      "tokens": 39143327
+    },
+    {
+      "date": "2026-06-24",
+      "calls": 1652,
+      "tokens": 95624272
+    },
+    {
+      "date": "2026-06-25",
+      "calls": 652,
+      "tokens": 50284061
+    },
+    {
+      "date": "2026-06-26",
+      "calls": 944,
+      "tokens": 42608039
+    },
+    {
+      "date": "2026-06-29",
+      "calls": 761,
+      "tokens": 32034242
+    },
+    {
+      "date": "2026-06-30",
+      "calls": 799,
+      "tokens": 30797809
+    },
+    {
+      "date": "2026-07-01",
+      "calls": 94,
+      "tokens": 1708846
+    },
+    {
+      "date": "2026-07-02",
+      "calls": 854,
+      "tokens": 52352810
+    },
+    {
+      "date": "2026-07-03",
+      "calls": 800,
+      "tokens": 44779527
+    },
+    {
+      "date": "2026-07-06",
+      "calls": 100,
+      "tokens": 8112161
+    },
+    {
+      "date": "2026-07-07",
+      "calls": 770,
+      "tokens": 54202748
+    },
+    {
+      "date": "2026-07-08",
+      "calls": 532,
+      "tokens": 34313232
+    },
+    {
+      "date": "2026-07-09",
+      "calls": 375,
+      "tokens": 15701107
+    },
+    {
+      "date": "2026-07-10",
+      "calls": 440,
+      "tokens": 40248133
+    },
+    {
+      "date": "2026-07-13",
+      "calls": 859,
+      "tokens": 81018965
+    },
+    {
+      "date": "2026-07-14",
+      "calls": 467,
+      "tokens": 42787426
+    },
+    {
+      "date": "2026-07-15",
+      "calls": 12,
+      "tokens": 321944
+    },
+    {
+      "date": "2026-07-16",
+      "calls": 166,
+      "tokens": 6140121
+    },
+    {
+      "date": "2026-07-17",
+      "calls": 634,
+      "tokens": 36911011
+    },
+    {
+      "date": "2026-07-19",
+      "calls": 168,
+      "tokens": 7982012
+    },
+    {
+      "date": "2026-07-20",
+      "calls": 865,
+      "tokens": 62339216
+    },
+    {
+      "date": "2026-07-21",
+      "calls": 156,
+      "tokens": 5526049
+    },
+    {
+      "date": "2026-07-22",
+      "calls": 151,
+      "tokens": 3608857
+    },
+    {
+      "date": "2026-07-23",
+      "calls": 234,
+      "tokens": 20836936
+    },
+    {
+      "date": "2026-07-24",
+      "calls": 2283,
+      "tokens": 227439218
+    },
+    {
+      "date": "2026-07-27",
+      "calls": 768,
+      "tokens": 57352942
+    },
+    {
+      "date": "2026-07-28",
+      "calls": 1100,
+      "tokens": 93557317
+    },
+    {
+      "date": "2026-07-29",
+      "calls": 651,
+      "tokens": 60652027
+    },
+    {
+      "date": "2026-07-30",
+      "calls": 812,
+      "tokens": 75513742
+    },
+    {
+      "date": "2026-07-31",
+      "calls": 1415,
+      "tokens": 142601122
+    },
+    {
+      "date": "2026-08-01",
+      "calls": 1,
+      "tokens": 0
+    },
+    {
+      "date": "2026-08-03",
+      "calls": 1842,
+      "tokens": 154049851
+    },
+    {
+      "date": "2026-08-04",
+      "calls": 170,
+      "tokens": 6877301
+    },
+    {
+      "date": "2026-08-05",
+      "calls": 1031,
+      "tokens": 96050645
+    },
+    {
+      "date": "2026-08-06",
+      "calls": 926,
+      "tokens": 28483173
+    },
+    {
+      "date": "2026-08-07",
+      "calls": 927,
+      "tokens": 45244720
+    },
+    {
+      "date": "2026-08-10",
+      "calls": 534,
+      "tokens": 124866181
+    },
+    {
+      "date": "2026-08-11",
+      "calls": 1416,
+      "tokens": 112600755
+    },
+    {
+      "date": "2026-08-12",
+      "calls": 2310,
+      "tokens": 243898897
+    },
+    {
+      "date": "2026-08-13",
+      "calls": 1053,
+      "tokens": 60985706
+    },
+    {
+      "date": "2026-08-14",
+      "calls": 1813,
+      "tokens": 103045557
+    },
+    {
+      "date": "2026-08-18",
+      "calls": 1912,
+      "tokens": 152166365
+    },
+    {
+      "date": "2026-08-19",
+      "calls": 356,
+      "tokens": 12079440
+    },
+    {
+      "date": "2026-08-20",
+      "calls": 166,
+      "tokens": 3490256
+    },
+    {
+      "date": "2026-08-21",
+      "calls": 336,
+      "tokens": 15182247
+    },
+    {
+      "date": "2026-08-22",
+      "calls": 547,
+      "tokens": 53418199
+    },
+    {
+      "date": "2026-08-24",
+      "calls": 1037,
+      "tokens": 72258792
+    },
+    {
+      "date": "2026-08-25",
+      "calls": 357,
+      "tokens": 54837356
+    },
+    {
+      "date": "2026-08-26",
+      "calls": 1290,
+      "tokens": 79130316
+    },
+    {
+      "date": "2026-08-27",
+      "calls": 612,
+      "tokens": 14213766
+    }
+  ]
+}

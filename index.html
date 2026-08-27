@@ -1,0 +1,38 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Shuo</title>
+      <meta name="description" content="Create a minimalist personal blog platform for users to share thoughts and experiences, enhancing online presence with a sleek, user-friendly design." />
+      <meta name="robots" content="noindex, nofollow" />
+      <style>html, body { height: 100%; margin: 0; } #root { height: 100%; }</style>
+      <script>
+        (function() {
+          try {
+            const stored = localStorage.getItem("theme");
+            const isDark =
+              stored === "dark" ||
+              (!stored && window.matchMedia("(prefers-color-scheme: dark)").matches) ||
+              (stored === "system" && window.matchMedia("(prefers-color-scheme: dark)").matches);
+            if (isDark) {
+              document.documentElement.classList.add("dark");
+            } else {
+              document.documentElement.classList.remove("dark");
+            }
+          } catch (_) {}
+        })();
+      </script>
+    </head>
+
+
+    <body>
+      
+      <div id="root"></div>
+      <script type="module" src="/src/main.tsx"></script>
+      
+    </body>
+  </html>
+  
