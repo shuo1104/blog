@@ -1,45 +1,10 @@
 {
-  "updatedAt": "2026-09-12T03:18:16.779Z",
+  "updatedAt": "2026-09-13T03:23:00.613Z",
   "users": {
     "shuo1104": {
       "username": "shuo1104",
       "totalContributions": 169,
       "contributions": [
-        {
-          "date": "2025-09-07",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-09-08",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-09-09",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-09-10",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-09-11",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-09-12",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-09-13",
-          "count": 0,
-          "level": 0
-        },
         {
           "date": "2025-09-14",
           "count": 0,
@@ -1859,14 +1824,14 @@
           "date": "2026-09-12",
           "count": 0,
           "level": 0
+        },
+        {
+          "date": "2026-09-13",
+          "count": 0,
+          "level": 0
         }
       ],
       "repos": [
-        {
-          "name": "Mars-car",
-          "count": 7,
-          "href": "https://github.com/shuo1104/Mars-car"
-        },
         {
           "name": "mac_menu",
           "count": 1,
