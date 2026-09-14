@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T03:23:00.613Z",
+  "updatedAt": "2026-09-14T03:34:01.721Z",
   "users": {
     "shuo1104": {
       "username": "shuo1104",
@@ -1829,13 +1829,28 @@
           "date": "2026-09-13",
           "count": 0,
           "level": 0
+        },
+        {
+          "date": "2026-09-14",
+          "count": 0,
+          "level": 0
         }
       ],
       "repos": [
         {
+          "name": "blog",
+          "count": 1,
+          "href": "https://github.com/shuo1104/blog"
+        },
+        {
           "name": "mac_menu",
           "count": 1,
           "href": "https://github.com/shuo1104/mac_menu"
+        },
+        {
+          "name": "old_man",
+          "count": 1,
+          "href": "https://github.com/shuo1104/old_man"
         }
       ]
     }
