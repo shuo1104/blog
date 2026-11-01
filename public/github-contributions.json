@@ -1,45 +1,10 @@
 {
-  "updatedAt": "2026-10-31T04:15:57.608Z",
+  "updatedAt": "2026-11-01T04:36:17.304Z",
   "users": {
     "shuo1104": {
       "username": "shuo1104",
       "totalContributions": 171,
       "contributions": [
-        {
-          "date": "2025-10-26",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-10-27",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-10-28",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-10-29",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-10-30",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-10-31",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-01",
-          "count": 0,
-          "level": 0
-        },
         {
           "date": "2025-11-02",
           "count": 0,
@@ -1857,6 +1822,11 @@
         },
         {
           "date": "2026-10-31",
+          "count": 0,
+          "level": 0
+        },
+        {
+          "date": "2026-11-01",
           "count": 0,
           "level": 0
         }
